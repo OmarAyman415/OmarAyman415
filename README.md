@@ -1,10 +1,19 @@
+<h1 align="center">Omar Ayman Mohamed</h1>
 <h3 align="center">Backend Software Developer</h3>
+
+<p align="center">
+Backend &amp; .NET engineer with hands-on experience building REST APIs and microservices — from Entity Framework data layers to Kafka-driven distributed systems. Currently an IT Operations Engineer at e&amp; Egypt (Etisalat Egypt), keeping infrastructure running at one of Egypt's largest telecoms. Open to backend and Spring Boot opportunities.
+</p>
+
+<p align="center">
+Cairo, Egypt &nbsp;·&nbsp; <a href="https://omarayman415.github.io">omarayman415.github.io</a> &nbsp;·&nbsp; <a href="mailto:omarayman40404@gmail.com">omarayman40404@gmail.com</a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarayman415" alt="omarayman415" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-ayman-723b401b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ayman-723b401b4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-ayman-723b401b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ayman-723b401b4/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
